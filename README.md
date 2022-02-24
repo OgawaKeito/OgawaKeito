@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @OgawaKeito
-- 👀 I’m interested in sports
 - 🌱 I’m currently learning JS/HTML/CSS/PHP/
 
 <!---
