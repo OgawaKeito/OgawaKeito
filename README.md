@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OgawaKeito
-- 🌱 JS/HTML/CSS/PHP/
+- 🌱 HTML/CSS/JS/PHP/
 
 <!---
 OgawaKeito/OgawaKeito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
